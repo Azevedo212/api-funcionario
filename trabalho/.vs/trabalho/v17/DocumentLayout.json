@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "D:\\IFRO\\3\u00B0Ano\\PDS\\trabalho\\trabalho\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{564ADD3B-B36B-4785-8C5D-E663BC90282B}|trabalho\\trabalho.csproj|d:\\ifro\\3\u00B0ano\\pds\\trabalho\\trabalho\\trabalho\\dtos\\funcionariodtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{564ADD3B-B36B-4785-8C5D-E663BC90282B}|trabalho\\trabalho.csproj|solutionrelative:trabalho\\dtos\\funcionariodtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{564ADD3B-B36B-4785-8C5D-E663BC90282B}|trabalho\\trabalho.csproj|d:\\ifro\\3\u00B0ano\\pds\\trabalho\\trabalho\\trabalho\\controllers\\funcionariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{564ADD3B-B36B-4785-8C5D-E663BC90282B}|trabalho\\trabalho.csproj|solutionrelative:trabalho\\controllers\\funcionariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{564ADD3B-B36B-4785-8C5D-E663BC90282B}|trabalho\\trabalho.csproj|d:\\ifro\\3\u00B0ano\\pds\\trabalho\\trabalho\\trabalho\\models\\validacaocpf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{564ADD3B-B36B-4785-8C5D-E663BC90282B}|trabalho\\trabalho.csproj|solutionrelative:trabalho\\models\\validacaocpf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{564ADD3B-B36B-4785-8C5D-E663BC90282B}|trabalho\\trabalho.csproj|d:\\ifro\\3\u00B0ano\\pds\\trabalho\\trabalho\\trabalho\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{564ADD3B-B36B-4785-8C5D-E663BC90282B}|trabalho\\trabalho.csproj|solutionrelative:trabalho\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{564ADD3B-B36B-4785-8C5D-E663BC90282B}|trabalho\\trabalho.csproj|d:\\ifro\\3\u00B0ano\\pds\\trabalho\\trabalho\\trabalho\\funcionariosave\\funcionariometodos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{564ADD3B-B36B-4785-8C5D-E663BC90282B}|trabalho\\trabalho.csproj|solutionrelative:trabalho\\funcionariosave\\funcionariometodos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{564ADD3B-B36B-4785-8C5D-E663BC90282B}|trabalho\\trabalho.csproj|d:\\ifro\\3\u00B0ano\\pds\\trabalho\\trabalho\\trabalho\\controllers\\funcionariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{564ADD3B-B36B-4785-8C5D-E663BC90282B}|trabalho\\trabalho.csproj|solutionrelative:trabalho\\controllers\\funcionariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{564ADD3B-B36B-4785-8C5D-E663BC90282B}|trabalho\\trabalho.csproj|d:\\ifro\\3\u00B0ano\\pds\\trabalho\\trabalho\\trabalho\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{564ADD3B-B36B-4785-8C5D-E663BC90282B}|trabalho\\trabalho.csproj|solutionrelative:trabalho\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{564ADD3B-B36B-4785-8C5D-E663BC90282B}|trabalho\\trabalho.csproj|d:\\ifro\\3\u00B0ano\\pds\\trabalho\\trabalho\\trabalho\\dtos\\funcionariodtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{564ADD3B-B36B-4785-8C5D-E663BC90282B}|trabalho\\trabalho.csproj|solutionrelative:trabalho\\dtos\\funcionariodtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,24 +30,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "WeatherForecastController.cs",
               "DocumentMoniker": "D:\\IFRO\\3\u00B0Ano\\PDS\\trabalho\\trabalho\\trabalho\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "trabalho\\Controllers\\WeatherForecastController.cs",
               "ToolTip": "D:\\IFRO\\3\u00B0Ano\\PDS\\trabalho\\trabalho\\trabalho\\Controllers\\WeatherForecastController.cs",
               "RelativeToolTip": "trabalho\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-02T00:44:46.89Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "funcionarioMetodos.cs",
               "DocumentMoniker": "D:\\IFRO\\3\u00B0Ano\\PDS\\trabalho\\trabalho\\trabalho\\funcionarioSave\\funcionarioMetodos.cs",
               "RelativeDocumentMoniker": "trabalho\\funcionarioSave\\funcionarioMetodos.cs",
@@ -60,13 +60,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "FuncionarioController.cs",
               "DocumentMoniker": "D:\\IFRO\\3\u00B0Ano\\PDS\\trabalho\\trabalho\\trabalho\\Controllers\\FuncionarioController.cs",
               "RelativeDocumentMoniker": "trabalho\\Controllers\\FuncionarioController.cs",
               "ToolTip": "D:\\IFRO\\3\u00B0Ano\\PDS\\trabalho\\trabalho\\trabalho\\Controllers\\FuncionarioController.cs",
               "RelativeToolTip": "trabalho\\Controllers\\FuncionarioController.cs",
-              "ViewState": "AQIAAB0AAAAAAAAAAAAwwDAAAAANAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-30T03:19:10.585Z",
               "EditorCaption": ""
@@ -79,14 +79,14 @@
               "RelativeDocumentMoniker": "trabalho\\models\\validacaoCpf.cs",
               "ToolTip": "D:\\IFRO\\3\u00B0Ano\\PDS\\trabalho\\trabalho\\trabalho\\models\\validacaoCpf.cs",
               "RelativeToolTip": "trabalho\\models\\validacaoCpf.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAhAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-30T03:14:54.215Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "FuncionarioDtos.cs",
               "DocumentMoniker": "D:\\IFRO\\3\u00B0Ano\\PDS\\trabalho\\trabalho\\trabalho\\Dtos\\FuncionarioDtos.cs",
               "RelativeDocumentMoniker": "trabalho\\Dtos\\FuncionarioDtos.cs",

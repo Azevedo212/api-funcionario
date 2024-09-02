@@ -1,2 +1,2 @@
-1 | lucas | 046.664.562-79 | 321 | 0001 | guarda | seguranca | 3 | 69 99952-4215 | RO | Ji-parana | casa preta | 437 | 76907-606 |
-2 | pedro | 046.664.402-75 | 123 | 0002 | caixa | administracao | 1 | 69 99322-4518 | RO | Cacoal | av brasil | 217 | 56431-636 |
+1 |      lucas      |      046.664.562-79      |      321      |      0001      |      guarda      |      seguranca      |      3      |      69 99952-4215      |      RO      |      Ji-parana      |      casa preta      |      437      |      76907-606      | 
+2 |      pedro      |      046.664.402-75      |      123      |      0002      |      caixa      |      administracao      |      1      |      69 99322-4518      |      RO      |      Cacoal      |      av brasil      |      217      |      56431-636      | 

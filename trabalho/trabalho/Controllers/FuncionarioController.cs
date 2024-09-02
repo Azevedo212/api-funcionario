@@ -49,7 +49,7 @@ namespace trabalho.Controllers
             {
                 return BadRequest("Dados do funcionário não podem ser nulos.");
             }
-            if (validacaoCpf.IsCpf(funcionarioDto.CPF) == false)
+            if (validacaoCpf.ValidaCPF(funcionarioDto.CPF) == false)
             {
                 return BadRequest("CPF inválido.");
             }
